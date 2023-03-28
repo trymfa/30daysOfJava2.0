@@ -3,7 +3,10 @@ import java.util.Scanner;
 /**
  * Fra video: Hands-on Java - All-in-One Tutorial Series (7 HOURS!)
  * Skriv her forrige timestamp:
- * 15:00
+ * 1:00:00
+ * Holder på med ssh key til github. 
+ * Har genereret og sendt ssh til agent tingen
+ * mangler bare setup / connecte til github kontoen
  * 
  * 
  * Write a description of class MySweetProgram here.
