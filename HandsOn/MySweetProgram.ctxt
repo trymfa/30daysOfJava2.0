@@ -1,6 +1,6 @@
 #BlueJ class context
 comment0.target=MySweetProgram
-comment0.text=\n\ Fra\ video\:\ Hands-on\ Java\ -\ All-in-One\ Tutorial\ Series\ (7\ HOURS\!)\n\ Skriv\ her\ forrige\ timestamp\:\n\ 1\:00\:00\n\ Holder\ p\u00E5\ med\ ssh\ key\ til\ github.\ \n\ Har\ genereret\ og\ sendt\ ssh\ til\ agent\ tingen\n\ mangler\ bare\ setup\ /\ connecte\ til\ github\ kontoen\n\ \n\ \n\ Write\ a\ description\ of\ class\ MySweetProgram\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment0.text=\n\ Fra\ video\:\ Hands-on\ Java\ -\ All-in-One\ Tutorial\ Series\ (7\ HOURS\!)\n\ Skriv\ her\ forrige\ timestamp\:\n\ 1\:10\:00\n\ Ferdig\ med\ ssh\n\ \n\ \n\ Write\ a\ description\ of\ class\ MySweetProgram\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
 comment1.params=args
 comment1.target=void\ main(java.lang.String[])
 comment1.text=\n\ \ Metoden\ her\ er\ "main"\n\ \ parameter\ holder\ p\u00E5\ input\ \n\ \ return\ type\ holder\ p\u00E5\ output\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \n\ \ method\ \n\ \ void\ betyr\ uten\ return\ \n\ \ static\ betyr\ at\ vi\ ikke\ trenger\ \u00E5\ kosntruere\ et\ objekt\ for\ \u00E5\ ta\ i\ bruk\ metoden\n
